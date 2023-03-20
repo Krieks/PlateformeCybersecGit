@@ -1,6 +1,6 @@
-  =>  Template Name    : ECOURSES - Online Courses HTML Template
+  =>  Template Name    : ECours - Online Cours HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/online-courses-html-template
+  =>  Template Link    : https://htmlcodex.com/online-Cours-html-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
