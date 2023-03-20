@@ -1,6 +1,5 @@
-<?php 
-
-?><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
